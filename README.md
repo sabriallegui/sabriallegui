@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabriallegui
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on wep apps projects
+- 💞️ I’m looking to collaborate on web apps projects
 - 📫 How to reach me soloplayasabry@gmail.com
 
 <!---
